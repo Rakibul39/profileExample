@@ -1,6 +1,1 @@
-<?php 
-$a = 2;
-$b = 4;
-$c = $a + $b;
-echo $c;
-?>
+<?php include_once("home.html"); ?>
